@@ -1,4 +1,4 @@
-## Code for MultiQuant: A Novel Multi-Branch Topology Method for Arbitrary Bit-width Network Quantization
+## MultiQuant: A Novel Multi-Branch Topology Method for Arbitrary Bit-width Network Quantization
 ## Dependence
 * See requirements.txt
 
