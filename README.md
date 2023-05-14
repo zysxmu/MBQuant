@@ -61,3 +61,11 @@ python main_resnet.py --data PathForImageNet \
 --epochs 90 --lr_m 0.1 --weight_decay 0.0001 \
 --log_dir PathForSave --bit_list 234
 ```
+
+##  Trained models
+[here](https://drive.google.com/drive/folders/1gF_t_v3ReUkhsrEtSQpkPjOHUyG_Y7E0?usp=sharing)
+
+
+##  Acknowledgments
+
+Code is implemented based on [PalQuant](https://github.com/huqinghao/PalQuant/). We are very grateful for their excellent work.
