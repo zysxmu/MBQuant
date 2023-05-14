@@ -1,0 +1,11 @@
+numpy==1.19.5
+tensorboard==2.8.0
+timm==0.5.4
+torch==1.9.0+cu111 
+torchvision==0.10.1
+tqdm==4.64.0
+disutils==1.4.32
+setuptools==52.0.0
+protobuf==3.19.0
+torchinfo
+thop==0.1.1.post2209072238
