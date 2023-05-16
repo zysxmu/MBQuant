@@ -1,4 +1,4 @@
-## MultiQuant: A Novel Multi-Branch Topology Method for Arbitrary Bit-width Network Quantization
+## MultiQuant: A Novel Multi-Branch Topology Method for Arbitrary Bit-width Network Quantization [paper](https://arxiv.org/abs/2305.08117)
 ## Dependence
 * See requirements.txt
 
